@@ -80,8 +80,7 @@ This project implements a **passcode-based security system** using the STM32F4xx
 
 ### 🖥️ Software:
 - **Keil uVision**
-- STM32 HAL Library (optional, if not using register-level code)
-- USB Programmer (e.g., ST-Link V2)
+-**Proteus** 
 
 ---
 
@@ -90,6 +89,9 @@ This project implements a **passcode-based security system** using the STM32F4xx
 - 🔔 **Buzzer Alert:** Integrate a buzzer to signal failed attempts or block events.
 - 📜 **Security Logs:** Add external memory to store logs of access attempts.
 - 🌐 **IoT Integration:** Connect the system to a network to allow remote monitoring and unlocking.
+
+
+
 ![Screenshot 2024-12-22 134626](https://github.com/user-attachments/assets/fafed8b5-1391-479d-9918-da05bdd33dd4)
 
 
