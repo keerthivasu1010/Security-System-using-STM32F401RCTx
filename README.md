@@ -80,7 +80,7 @@ This project implements a **passcode-based security system** using the STM32F4xx
 
 ### 🖥️ Software:
 - **Keil uVision**
--**Proteus** 
+-Proteus
 
 ---
 
